@@ -18,7 +18,7 @@ C15S: alias C15Support, a custom wallpaper engine.
 ```
 
 The wallpaper engine is built under Qt 5.9.0 with MSVC2019 32-bit
-It's originally from another open source project, which I cannot remember the link.
+It's originally from another open source project, but I cannot remember the link.
 Deleted UI and custom web page path support. Web pages are at C15S/www
 
 All executable binary files are all compatible with Windows7 32-bit and newer versions.
