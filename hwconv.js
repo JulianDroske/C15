@@ -33,6 +33,7 @@ var txt='';
 var subjmod='';
 var compactWeb = {};
 var subjs=['c','m','e','z','b','p'];
+var subjLnk = ['语文','数学','英语','历史','生物','地理'];
 var subjpos=0;
 
 // get line

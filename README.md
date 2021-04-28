@@ -11,6 +11,9 @@ hw.docx: A templet that should be correspond with the path in C8API
 document.xml: Extracted tempory file from hw.docx for hwconv to handle.
 JuRw.js: A library in JuRt Project, is a special version for Web.
 hwconv.js: Main Converter. Usage: node hwconv.js <document.xml> <outputPath>
+hwconv2.js: Minor Converter, only do uploads for C8API. Usage: node hwconv2.js <hw.txt>
+hwconv2.bat: Bootstrap for hwconv2.js
+hwconv2.vbs: Bootstrap for hwconv2.bat
 hwconv.bat: Bootstrap for hwconv.js
 hwconv.vbs: Bootstrap for hwconv.bat
 main.bat: Used to run Wallpaper.
